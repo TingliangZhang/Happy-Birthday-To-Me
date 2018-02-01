@@ -1,4 +1,4 @@
-# Love
+# Happy-Birthday-To-Me
 Project forked from xavieryao/Happy-Birthday
 本项目派生(fork)于[xavieryao/Happy-Birthday](https://github.com/xavieryao/Happy-Birthday)        
 只是改了一些参数为自己过生日QAQ
